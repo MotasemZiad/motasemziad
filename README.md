@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motasemziad" alt="motasemziad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/motasemnema" target="blank"><img src="https://img.shields.io/twitter/follow/motasemnema?logo=twitter&style=for-the-badge" alt="motasemnema" /></a> </p>
-
 - 🌱 I’m currently learning **Software Testing**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
