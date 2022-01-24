@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Motasem</h1>
 <h3>A passionate software developer from Palestine</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motasemziad" alt="motasemziad" /></a> </p>
 
 - 🌱 I’m currently learning **Software Testing**
 
