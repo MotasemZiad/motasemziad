@@ -11,7 +11,7 @@
 - 💬 Ask me about **Android, iOS, Flutter, SDLC**
 
 - 📫 How to reach me **moatasem.abunema@gmail.com**
-
+<br>
 <p align="center"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=motasemziad&left_color=green&right_color=red"/>
 </p>
