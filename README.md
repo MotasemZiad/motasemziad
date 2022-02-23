@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **moatasem.abunema@gmail.com**
 
+<p align="center"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=motasemziad&left_color=green&right_color=red"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/motasemnema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="motasemnema" height="30" width="40" /></a>
