@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **HTML, CSS, JS, Java, Kotlin, Swift, and Dart**
-
 - 💬 Ask me about **Android, iOS, Flutter, SDLC**
 
 - 📫 How to reach me **moatasem.abunema@gmail.com**
