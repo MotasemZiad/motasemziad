@@ -2,7 +2,7 @@
 <h3>A passionate software developer from Palestine</h3>
 
 
-- 🌱 I’m currently learning **Test Driven Development**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
