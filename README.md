@@ -2,7 +2,7 @@
 <h3>A passionate software developer from Palestine</h3>
 
 
-- 🌱 I’m currently learning **CI/CD Pipeline**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
