@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Android, iOS, Flutter, Agile**
-
 - 📫 How to reach me **moatasem.abunema@gmail.com**
 <br>
 <p align="center"> 
