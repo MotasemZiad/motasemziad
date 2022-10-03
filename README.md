@@ -1,4 +1,4 @@
-<h1>Hello everybody, This is Motasem</h1>
+<h1>Hello everyone, This is Motasem</h1>
 <h3>A passionate software developer from Palestine</h3>
 
 
