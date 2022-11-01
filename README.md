@@ -28,6 +28,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motasemziad&show_icons=true&locale=en&layout=compact" alt="motasemziad" /></p>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=MotasemZiad&theme=darkhub&no-frame=true&column=10"></a>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=motasemziad&show_icons=true&locale=en" alt="motasemziad" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=motasemziad&" alt="motasemziad" /></p>
