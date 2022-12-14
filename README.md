@@ -27,6 +27,7 @@
 <h3 align="left">Certifications Badges:</h3>
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b7e5d58c-eb19-4f9b-8297-78dcc90a57a1/public_url)
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b7e5d58c-eb19-4f9b-8297-78dcc90a57a1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<br>
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/52855540/207615677-6aa729f8-46f1-418f-96cc-5a3463d038fd.png)
 <br><br>
 
