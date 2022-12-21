@@ -29,6 +29,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/motasemabunema"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="motasemabunema" /></a><a href="https://ko-fi.com/moatasemabunema"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="moatasemabunema" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motasemziad&show_icons=true&locale=en&layout=compact" alt="motasemziad" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=motasemziad&show_icons=true&locale=en" alt="motasemziad" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motasemziad&show_icons=true&locale=en&layout=compact" alt="motasemziad" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=motasemziad&show_icons=true&locale=en" alt="motasemziad" />
+</p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=motasemziad&" alt="motasemziad" /></p>
