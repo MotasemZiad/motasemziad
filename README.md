@@ -3,14 +3,8 @@
 
 
 - 🌱 I’m currently learning **Cloud Computing**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 📫 How to reach me **motasemabunima@gmail.com**
-<br>
-<p align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=motasemziad&left_color=green&right_color=red"/>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/motasemabunima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="motasemabunima" height="30" width="40" /></a>
@@ -23,10 +17,4 @@
 <h3 align="left">Certifications Badges:</h3>
 <p><a href="https://www.credly.com/badges/b7e5d58c-eb19-4f9b-8297-78dcc90a57a1/public_url"> <img align="left" src="https://user-images.githubusercontent.com/52855540/207615677-6aa729f8-46f1-418f-96cc-5a3463d038fd.png" height="200" width="200" alt="aws-certified-cloud-practitioner" /></a></p>
 <br><br><br><br><br><br><br><br><br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/motasemabunema"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="motasemabunema" /></a><a href="https://ko-fi.com/moatasemabunema"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="moatasemabunema" /></a></p><br><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motasemziad&show_icons=true&locale=en&layout=compact" alt="motasemziad" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=motasemziad&show_icons=true&locale=en" alt="motasemziad" />
-</p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=motasemziad&" alt="motasemziad" /></p>
